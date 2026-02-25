@@ -1,9 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Inter:wght@400;700&display=swap');
 
-#index h1, #index .page-title,
-#index h2, #index h3, #index h4, #index h5, #index h6,
-#index p {font-family: 'Open Sans', sans-serif !important;}
-
-#about h1, #about .page-title,
-#about h2, #about h3, #about h4, #about h5, #about h6
-#about p {font-family: 'Open Sans', sans-serif !important;}
+#index * {font-family: 'Open Sans', sans-serif;}
+#about * {font-family: 'Open Sans', sans-serif;}
