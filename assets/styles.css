@@ -2,11 +2,18 @@
 
 *{font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;}
 
+/* Link colour */
+
+a:link { color: #00e5ff !important; }      /* Unvisited */
+a:visited { color: #006aff !important; }   /* Visited/clicked */
+a:hover { color: #00f5ed !important; }     /* Mouse over */
+a:active { color: hwb(121 0% 0%) !important; }    /* Clicking */
+
 footer {
   text-align: center;
   margin-top: 50px;
   padding: 20px;
   font-size: 14px;
   color: #333 !important;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #eeeeee;
 }
