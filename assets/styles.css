@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Inter:wght@400;700&display=swap');
 
-#index * {font-family: 'Open Sans', sans-serif;}
-#about * {font-family: 'Open Sans', sans-serif;}
-footer { 
-    text-align: center; margin-top: 50px;
-    padding: 20px;
-    font-size: 14px;
-    display: block;
-    color: black;
+*{font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-size: 14px;
+  color: #333 !important;
+  border-top: 1px solid #eee;
 }
