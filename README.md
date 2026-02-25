@@ -4,3 +4,5 @@ Some things to remember:
 - you also need to give different bodies ids if you want them to have unique formatting
 - github pages can't use .scss, only th raw .css files
 - you need to import the fonts you use in the styles.css page
+- After reorganizing the directory, make sure you have the page build from the appropriate directory (b default, Jekyll will search for a docs folder, but I got rid of it so now i have it build from root "(/)" and now it seems to work again)
+
