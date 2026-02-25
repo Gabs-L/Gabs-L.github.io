@@ -5,4 +5,15 @@ Some things to remember:
 - github pages can't use .scss, only th raw .css files
 - you need to import the fonts you use in the styles.css page
 - After reorganizing the directory, make sure you have the page build from the appropriate directory (b default, Jekyll will search for a docs folder, but I got rid of it so now i have it build from root "(/)" and now it seems to work again)
+- To change this go to repo settings -> pages -> build and deployment -> main -> /(root)
+- current file structure looks as follows:
+  / (root)
+├── index.html
+├── assets/
+│   └── css/
+│       └── style.css
+├── pages/
+│   └── about
+└── _config.yml
+
 
