@@ -7,7 +7,7 @@ Some things to remember:
 - After reorganizing the directory, make sure you have the page build from the appropriate directory (b default, Jekyll will search for a docs folder, but I got rid of it so now i have it build from root "(/)" and now it seems to work again)
 - To change this go to repo settings -> pages -> build and deployment -> main -> /(root)
 - current file structure looks as follows:
-
+```
 / (root)
 ├── index.html
 ├── assets/
@@ -16,5 +16,5 @@ Some things to remember:
 ├── pages/
 │   └── about
 └── _config.yml
-
+```
 
