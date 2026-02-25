@@ -2,3 +2,10 @@
 
 #index * {font-family: 'Open Sans', sans-serif;}
 #about * {font-family: 'Open Sans', sans-serif;}
+footer { 
+    text-align: center; margin-top: 50px;
+    padding: 20px;
+    font-size: 14px;
+    display: block;
+    color: black;
+}
