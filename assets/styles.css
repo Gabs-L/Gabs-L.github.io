@@ -4,6 +4,6 @@
 #index h2, #index h3, #index h4, #index h5, #index h6,
 #index p {font-family: 'Open Sans', sans-serif !important;}
 
-#pages/about h1, #pages/about .page-title,
-#pages/about h2, #pages/about h3, #pages/about h4, #pages/about h5, #pages/about h6
-#pages/about p {font-family: 'Open Sans', sans-serif !important;}
+#about h1, #about .page-title,
+#about h2, #about h3, #about h4, #about h5, #about h6
+#about p {font-family: 'Open Sans', sans-serif !important;}
