@@ -5,9 +5,9 @@
 /* Link colour */
 
 a:link { color: #00e5ff !important; }
-a:visited { color: #006aff !important; }
+a:visited { color: #ff00e1 !important; }
 a:hover { color: #f56a00 !important; }
-a:active { color: hwb(121 0% 0%) !important; }
+a:active { color: #00ff04 !important; }
 
 footer {
   text-align: center;
