@@ -17,4 +17,6 @@ Some things to remember:
 │   └── about
 └── _config.yml
 ```
+Website looks like this rn <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1be116e-209c-4ff4-b25f-98963aad886e" />
+
 
