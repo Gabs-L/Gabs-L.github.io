@@ -17,9 +17,10 @@ Some things to remember:
 │   └── about
 └── _config.yml
 ```
-Website looks like this rn: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1be116e-209c-4ff4-b25f-98963aad886e" />
+Website looks like this rn:<img width="1735" height="935" alt="image" src="https://github.com/user-attachments/assets/154f1f48-82b5-44dc-83ff-e9da4d13e756" />
 I added some links to an about page, and the github as well as a return link to the main page but I didn't screenshot. 
-Spent some time figuring out how to get a simple floating navigation menu at the top of the page. Looks like this now: <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f4c0296-9a44-4b55-bc91-2fe9906b2113" />
+Spent some time figuring out how to get a simple floating navigation menu at the top of the page. Looks like this now:<img width="1731" height="928" alt="image" src="https://github.com/user-attachments/assets/904064a1-e8cd-44e6-a4a1-c6d5686cbeb5" />
+
 
 
 
