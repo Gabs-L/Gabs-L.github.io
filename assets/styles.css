@@ -4,10 +4,10 @@
 
 /* Link colour */
 
-a:link { color: #00e5ff !important; }
-a:visited { color: #ff00e1 !important; }
-a:hover { color: #f56a00 !important; }
-a:active { color: #00ff04 !important; }
+.nav .nav-links a:link {color: #374151 !important;}
+.nav .nav-links a:visited {color: #374151 !important;}
+.nav .nav-links a:hover {color: #1e40af !important; background: rgba(59, 130, 246, 0.1);}
+.nav .nav-links a:active {color: #1e40af !important;}
 
 footer {
   text-align: center;
