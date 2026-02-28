@@ -25,6 +25,15 @@ a:active { color: #00ff04 !important; }
   background: rgba(59, 130, 246, 0.1);
 }
 
+.nav a.nav-brand:link,
+.nav a.nav-brand:visited,
+.nav a.nav-brand:hover,
+.nav a.nav-brand:active {
+  color: #1f2937 !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
+
 footer {
   text-align: center;
   margin-top: 50px;
