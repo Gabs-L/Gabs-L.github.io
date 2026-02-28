@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.body.insertAdjacentHTML('afterbegin', `
     <nav class="nav">
       <div class="nav-container">
-        <a href="${root}index.html" class="nav-brand" style="font-weight: 700; font-size: 1.2rem; color: #ff002b; text-decoration: none;">HRMMMM</a>
+        <a href="${root}index.html" class="nav-brand" style="font-weight: 700; font-size: 1.5rem; color: #ff002b; text-decoration: none;">HRMMMM</a>
         <ul class="nav-links">
           <li><a href="${root}pages/about.html">About</a></li>
           <li><a href="https://github.com/Gabs-L" target="_blank">GitHub</a></li>
