@@ -3,10 +3,10 @@
 *{font-family: 'Open Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;}
 
 /* Default page link colours */
-a:link { color: #00e5ff !important; }
+a:link    { color: #00e5ff !important; }
 a:visited { color: #ff00e1 !important; }
-a:hover { color: #f56a00 !important; }
-a:active { color: #00ff04 !important; }
+a:hover   { color: #f56a00 !important; }
+a:active  { color: #00ff04 !important; }
 
 /* Navbar link overrides */
 .nav .nav-links a:link,
