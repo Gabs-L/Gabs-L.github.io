@@ -66,18 +66,18 @@ a:active  { color: #00ff04 !important; }
 }
 
 /* Nav bar links */
-.nav .nav-links a:link    { color: #00ff9d !important; }
-.nav .nav-links a:visited { color: #33ff00 !important; }
+.nav .nav-links a:link    { color: #0008ff !important; }
+.nav .nav-links a:visited { color: #00ffae !important; }
 .nav .nav-links a:hover   { color: #1e40af !important; background: rgba(59, 130, 246, 0.1); }
 .nav .nav-links a:active  { color: #ff00ea !important; }
 
 /* Nav bar title */
 .nav a.nav-title {
-  font-weight: 800 !important;
+  font-weight: 2000 !important;
   text-decoration: none !important;
 }
 .nav a.nav-title:link    { color: #ffea00 !important; }
-.nav a.nav-title:visited { color: #0dff00 !important; }
+.nav a.nav-title:visited { color: #00f7ff !important; }
 .nav a.nav-title:hover   { color: #0dff01 !important; }
 .nav a.nav-title:active  { color: #ff0505 !important; }
 
