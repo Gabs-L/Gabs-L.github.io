@@ -12,7 +12,7 @@ body {
 /* general formatting */
 .page-content {
   margin-top: 2rem;
-  max-width: 800px;
+  max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 2rem;
@@ -28,11 +28,6 @@ body {
 }
 
 /* page formatting overrides */
-#about.page-content,
-#projects.page-content,
-#portfolio.page-content {
-  max-width: 600px;
-}
 
 /* Default link colours */
 a:link    { color: #00e5ff !important; }
