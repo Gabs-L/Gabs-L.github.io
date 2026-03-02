@@ -9,13 +9,29 @@ body {
   line-height: 1.6;
 }
 
-/* Main content */
-#index {
+/* general formatting */
+.page-content {
   margin-top: 2rem;
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 2rem;
+}
+
+/* index formatting */
+#index.page-content {
+  margin-top: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2rem;
+}
+
+/* page formatting overrides */
+#about.page-content,
+#projects.page-content,
+#portfolio.page-content {
+  max-width: 600px;
 }
 
 /* Default link colours */
