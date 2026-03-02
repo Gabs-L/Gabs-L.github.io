@@ -28,11 +28,20 @@ Spent a very long time switching my top navigation bar to be a javascript thing 
 - also cleaned up some code in the index and about pages and have some custom formattign for different classes of pages under the styles.css page. 
 Website looke like this now:
 <table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/ecf7a92a-f462-4e08-a5b6-8ba88f90b2cf" alt="Index" width="300" /></td>
-    <td><img src="https://github.com/user-attachments/assets/31dddaa1-6a1f-49af-8cc0-380e6328b94b" alt="About" width="300" /></td>
-    <td><img src="https://github.com/user-attachments/assets/d0c76a6c-2be9-4c4b-b372-39ab9e958319" alt="Projects" width="300" /></td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Index</th>
+      <th>About</th>
+      <th>Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/ecf7a92a-f462-4e08-a5b6-8ba88f90b2cf" alt="Index" width="300" /></td>
+      <td><img src="https://github.com/user-attachments/assets/31dddaa1-6a1f-49af-8cc0-380e6328b94b" alt="About" width="300" /></td>
+      <td><img src="https://github.com/user-attachments/assets/d0c76a6c-2be9-4c4b-b372-39ab9e958319" alt="Projects" width="300" /></td>
+    </tr>
+  </tbody>
 </table>
 
 
