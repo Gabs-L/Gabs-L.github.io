@@ -58,7 +58,7 @@ a:active  { color: #00ff04 !important; }
 .nav .nav-links a {
   font-family: 'Inter', sans-serif !important;
   font-weight: 500 !important;
-  font-size: 1.5rem !important;
+  font-size: 1rem !important;
   text-decoration: none !important;
   padding: 0.5rem 1rem;
   border-radius: 6px;
