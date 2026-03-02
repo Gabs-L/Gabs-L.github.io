@@ -66,6 +66,11 @@ a:active  { color: #00ff04 !important; }
 }
 
 /* Nav bar links */
+.nav a.nav-links {
+  font-weight: 500 !important;
+  font-size: 0.5rem !important;
+  text-decoration: none !important;
+}
 .nav .nav-links a:link    { color: #0008ff !important; }
 .nav .nav-links a:visited { color: #00ffae !important; }
 .nav .nav-links a:hover   { color: #1e40af !important; background: rgba(59, 130, 246, 0.1); }
