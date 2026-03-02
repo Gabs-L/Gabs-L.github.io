@@ -58,10 +58,10 @@ a:active  { color: #00ff04 !important; }
 .nav .nav-links a:active  { color: #ff00ea !important; }
 
 /* Nav bar Title colour overrides */
-.nav a.nav-title:link    { color: #ffea00 !important; font-weight: 700 !important; text-decoration: none !important; }
-.nav a.nav-title:visited { color: #006aff !important; font-weight: 700 !important; text-decoration: none !important; }
-.nav a.nav-title:hover   { color: #0dff01 !important; font-weight: 700 !important; text-decoration: none !important; }
-.nav a.nav-title:active  { color: #ff0505 !important; font-weight: 700 !important; text-decoration: none !important; }
+.nav a.nav-title:link    { color: #ffea00 !important; font-weight: 800 !important; text-decoration: none !important; }
+.nav a.nav-title:visited { color: #006aff !important; font-weight: 800 !important; text-decoration: none !important; }
+.nav a.nav-title:hover   { color: #0dff01 !important; font-weight: 800 !important; text-decoration: none !important; }
+.nav a.nav-title:active  { color: #ff0505 !important; font-weight: 800 !important; text-decoration: none !important; }
 
 footer {
   text-align: center;
