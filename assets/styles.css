@@ -68,7 +68,7 @@ a:active  { color: #00ff04 !important; }
 /* Nav bar links */
 .nav a.nav-links {
   font-weight: 500 !important;
-  font-size: 0.5rem !important;
+  font-size: 1rem !important;
   text-decoration: none !important;
 }
 .nav .nav-links a:link    { color: #0008ff !important; }
