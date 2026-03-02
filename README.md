@@ -22,5 +22,17 @@ I added some links to an about page, and the github as well as a return link to 
 Spent some time figuring out how to get a simple floating navigation menu at the top of the page. Looks like this now:<img width="1731" height="928" alt="image" src="https://github.com/user-attachments/assets/904064a1-e8cd-44e6-a4a1-c6d5686cbeb5" />
 
 
+Spent a very long time switching my top navigation bar to be a javascript thing that just injects the navbar into the top of each page so it is like a function of sorts. Now I just need to add a  
+```<script src="assets/nav.js"></script>``` at the end of eachof my <body> thingies. 
+- Also added a projects page so I coud practice having more pages.
+- also cleaned up some code in the index and about pages and have some custom formattign for different classes of pages under the styles.css page. 
+Website looke like this now:
+|Index|About|Projects|
+|-|-|-|
+|<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecf7a92a-f462-4e08-a5b6-8ba88f90b2cf" />|<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31dddaa1-6a1f-49af-8cc0-380e6328b94b" />|<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d0c76a6c-2be9-4c4b-b372-39ab9e958319" />|
+
+
+
+
 
 
