@@ -27,9 +27,9 @@ Spent a very long time switching my top navigation bar to be a javascript thing 
 - Also added a projects page so I coud practice having more pages.
 - also cleaned up some code in the index and about pages and have some custom formattign for different classes of pages under the styles.css page. 
 Website looke like this now:
-| Index | About | Projects |
-| --- | --- | --- |
-| ![Index](https://github.com/user-attachments/assets/ecf7a92a-f462-4e08-a5b6-8ba88f90b2cf) | ![About](https://github.com/user-attachments/assets/31dddaa1-6a1f-49af-8cc0-380e6328b94b) | ![Projects](https://github.com/user-attachments/assets/d0c76a6c-2be9-4c4b-b372-39ab9e958319)|
+| Index   | About   | Projects   |
+| ------- | ------- | --------- |
+| ![Index](https://github.com/user-attachments/assets/ecf7a92a-f462-4e08-a5b6-8ba88f90b2cf)   | ![About](https://github.com/user-attachments/assets/31dddaa1-6a1f-49af-8cc0-380e6328b94b)   | ![Projects](https://github.com/user-attachments/assets/d0c76a6c-2be9-4c4b-b372-39ab9e958319)   |
 
 
 
