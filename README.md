@@ -23,7 +23,7 @@ Spent some time figuring out how to get a simple floating navigation menu at the
 
 
 Spent a very long time switching my top navigation bar to be a javascript thing that just injects the navbar into the top of each page so it is like a function of sorts. Now I just need to add a  
-```<script src="assets/nav.js"></script>``` at the end of eachof my <body> thingies. 
+```<script src="assets/nav.js"></script>``` at the end of each of my <body> thingies. 
 - Also added a projects page so I coud practice having more pages.
 - also cleaned up some code in the index and about pages and have some custom formattign for different classes of pages under the styles.css page. 
 Website looke like this now:
@@ -44,7 +44,7 @@ Website looke like this now:
   </tbody>
 </table>
 
-
+- Just now I struggled for 10 mins trying to get the github readme to format a table using the images I pasted from snip and sketch. View the raw readme to see how to do it in HTML
 
 
 
