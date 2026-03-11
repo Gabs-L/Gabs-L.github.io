@@ -59,7 +59,7 @@ a:active  { color: #00ff04 !important; }
   list-style: none;
   margin: 0;
   padding: 0;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 @media (max-width:900px) {
