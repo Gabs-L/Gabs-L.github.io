@@ -99,7 +99,7 @@ a:active  { color: #00ff04 !important; }
 .dropdown {position: relative;}
 
 /* Drop down Menu */
-dropdown-menu {
+.dropdown-menu {
   display: none;
   position: absolute;
   top: 100%;

@@ -8,14 +8,14 @@ document.addEventListener('DOMContentLoaded', () => {
         <ul class="nav-links">
           <li><a href="${root}pages/about.html">About</a></li>
           <li class="dropdown">
-            <a href="${root}pages/projects.html">Projects ▾</a>
+            <a href="${root}pages/projects.html">Projects</a>
             <ul class="dropdown-menu">
               <li><a href="${root}pages/project1.html">Project 1</a></li>
               <li><a href="${root}pages/project2.html">Project 2</a></li>
             </ul>
           </li>
           <li class="dropdown">
-            <a href="${root}pages/other.html">Other ▾</a>
+            <a href="${root}pages/other.html">Other</a>
             <ul class="dropdown-menu">
               <li><a href="${root}pages/other1.html">Other 1</a></li>
               <li><a href="${root}pages/other2.html">Other 2</a></li>
