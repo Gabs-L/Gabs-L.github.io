@@ -62,7 +62,7 @@ a:active  { color: #00ff04 !important; }
   gap: 1rem;
 }
 
-@media (max-width:900px) {
+@media (max-width:1000px) {
   .nav { padding: 1rem; }
   .nav-links { display: none; }
 }
