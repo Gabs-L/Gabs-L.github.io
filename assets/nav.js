@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <li><a href="${root}pages/about.html">About</a></li>
           <li><a href="${root}pages/projects.html">Projects</a></li>
           <li><a href="${root}pages/other.html">Other</a></li>
+          <li style="border-left: 1px solid #dadada; padding-left: 1rem; margin-left: 1rem;">
           <li><a href="https://github.com/Gabs-L" target="_blank">GitHub</a></li>
         </ul>
       </div>
