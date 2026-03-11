@@ -49,7 +49,6 @@ Website looke like this now:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef1a69ef-9730-49b1-98fe-f54607b7f81b" />
 This looks kinda cool tho
 ... you need to refresh page cache too... CTRL+SHFT+R
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fbd8e73-4429-4cd1-b4f0-f312626f36b3" />
 
 
