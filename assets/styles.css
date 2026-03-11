@@ -7,7 +7,7 @@
 body {
   font-size: 1rem;
   line-height: 1.6;
-  background-color: #333;
+  background-color:#333333;
 }
 
 /* general formatting */
@@ -40,9 +40,9 @@ a:active  { color: #00ff04 !important; }
 .nav {
   position: sticky;
   top: 0;
-  background: rgba(255, 255, 255, 0.95);
+  background: #333333;
   backdrop-filter: blur(10px);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid #808080;
   z-index: 100;
   padding: 1rem 2rem;
 }
