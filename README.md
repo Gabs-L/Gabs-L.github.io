@@ -45,8 +45,9 @@ Website looke like this now:
 </table>
 
 - Just now I struggled for 10 mins trying to get the github readme to format a table using the images I pasted from snip and sketch. View the raw readme to see how to do it in HTML
-
-
+-Spent a while trying to change the colours of things, still can't figure out how to change colour of the text:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef1a69ef-9730-49b1-98fe-f54607b7f81b" />
+This looks kinda cool tho
 
 
 
