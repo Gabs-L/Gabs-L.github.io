@@ -50,6 +50,37 @@ Website looke like this now:
 This looks kinda cool tho
 ... you need to refresh page cache too... CTRL+SHFT+R
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fbd8e73-4429-4cd1-b4f0-f312626f36b3" />
+In MTRL 280 rn, did some tweaks previously too and didn't really update the readme.  I've added some dropdowns after much pain. they odn't lead anywhere yet.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/011f98e2-2313-4766-8289-57e691e64f67" />
+Drop downs need can be added like this:
+```
+<nav class="nav">
+      <div class="nav-container">
+        <a href="${root}index.html" class="nav-title">HRMMMM</a>
+        <ul class="nav-links">
+          <li><a href="${root}pages/about.html">About</a></li>
+          <li class="dropdown">
+            <a href="${root}pages/projects.html">Projects</a>
+            <ul class="dropdown-menu">
+              <li><a href="${root}pages/project1.html">Project 1</a></li>
+              <li><a href="${root}pages/project2.html">Project 2</a></li>
+            </ul>
+          </li>
+          <li class="dropdown">
+            <a href="${root}pages/other.html">Other</a>
+            <ul class="dropdown-menu">
+              <li><a href="${root}pages/other1.html">Other 1</a></li>
+              <li><a href="${root}pages/other2.html">Other 2</a></li>
+            </ul>
+          </li>
+          <li style="border-left: 1px solid #dadada; padding-left: 1rem; margin-left: 1rem;">
+          <li><a href="https://github.com/Gabs-L" target="_blank">GitHub</a></li>
+        </ul>
+      </div>
+    </nav>
+```
+withing the js file managing my navigation bar
+
 
 
 
