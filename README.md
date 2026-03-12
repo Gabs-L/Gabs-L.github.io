@@ -53,7 +53,7 @@ This looks kinda cool tho
 In MTRL 280 rn, did some tweaks previously too and didn't really update the readme.  I've added some dropdowns after much pain. they odn't lead anywhere yet.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/011f98e2-2313-4766-8289-57e691e64f67" />
 Drop downs need can be added like this:
-```
+``` 
 <nav class="nav">
       <div class="nav-container">
         <a href="${root}index.html" class="nav-title">HRMMMM</a>
