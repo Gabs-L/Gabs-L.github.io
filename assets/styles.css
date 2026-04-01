@@ -28,8 +28,9 @@ body {
   margin-right: auto;
   padding: 0 2rem;
 }
+
 h1, h2, h3, h4 {
-  margin: 0;
+  margin: 50;
 }
 
 /* page formatting overrides */
