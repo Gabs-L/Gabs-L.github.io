@@ -10,8 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <li class="dropdown">
             <a href="${root}pages/projects.html">Projects</a>
             <ul class="dropdown-menu">
-              <li><a href="${root}pages/project1.html">Project 1</a></li>
-              <li><a href="${root}pages/project2.html">Project 2</a></li>
+              <li><a href="${root}pages/project1.html">Optiplex Distributed Compute Cluster</a></li>
+              <li><a href="${root}pages/project2.html">SupaNas V1.0</a></li>
             </ul>
           </li>
           <li class="dropdown">
