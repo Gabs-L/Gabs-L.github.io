@@ -51,6 +51,15 @@ This looks kinda cool tho
 ... you need to refresh page cache too... CTRL+SHFT+R
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fbd8e73-4429-4cd1-b4f0-f312626f36b3" />
 
+-Added some more stuff, mainly text and whatnot to the pages so they're a little easier to identify. I haven't touched this project much since I was busy getting destroyed by finals
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/628d35f3-c4b6-4863-a40b-70bf0769998d" />
+-I should be studying for my last exam but I decided to add some dropdown submenus :)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a9c1d797-eb97-41b7-8189-f835830de42c" />
+-I'm gonna have to figure out the colours later on but that's a problem for later (summertime) me
+
+
+
+
 
 
 
