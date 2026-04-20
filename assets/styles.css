@@ -125,6 +125,31 @@ a:active  { color: #00ff04 !important; }
   padding: 0.5rem 1rem;
 }
 
+/* Drop Down Submenu*/
+.dropdown-submenu {
+  position: relative;
+}
+/* Arrow hint */
+.dropdown-submenu > a::after {
+  content: ' ›';
+}
+/* The second-level menu */
+.dropdown-submenu .submenu {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  background: #454545;
+  list-style: none;
+  padding: 0.5rem 0;
+  white-space: nowrap;
+  width: fit-content;
+  z-index: 101;
+}
+/* Show submenu on hover */
+.dropdown-submenu:hover .submenu {
+  display: block;
+}
 /* Footer */
 footer {
   text-align: center;
